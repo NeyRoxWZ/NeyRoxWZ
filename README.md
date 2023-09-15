@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm NeyRox</h1>
 <h3 align="center">I am passionate about developing programming languages</h3>
-<img align="right" alt="Codage" width="400" src="[https://cdn.dribbble.com/users/116207...](https://ardas-it.com/uploads/images/blogs/giph.gif)">
+<img align="right" alt="Codage" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neyroxwz&label=Profile%20views&color=0e75b6&style=flat" alt="neyroxwz" /> </p>
 
