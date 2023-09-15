@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/f7sD3sd.gif)](https://en.offmods.com/)
+[![MasterHead](https://cdn.discordapp.com/attachments/881500945903648819/1152250831421313154/giphy_1.gif)](https://en.offmods.com/)
 <h1 align="center">Hi, I'm NeyRox</h1>
 <h3 align="center">I am passionate about developing programming languages</h3>
 <img align="right" alt="Codage" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
