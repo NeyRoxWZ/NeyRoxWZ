@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.033fc2ee60f70e584470288693cc6030?rik=%2bZL%2f36arr%2fev8A&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fyl3XErRq8qmmA%2fgiphy.gif&ehk=K8USayQyHt5UOKiEIrIK93hP65i8W%2bbKXfmZ3%2bbF9Sk%3d&risl=&pid=ImgRaw&r=0)](https://en.offmods.com/)
+[![MasterHead](https://i.imgur.com/f7sD3sd.gif)](https://en.offmods.com/)
 <h1 align="center">Hi, I'm NeyRox</h1>
 <h3 align="center">I am passionate about developing programming languages</h3>
 <img align="right" alt="Codage" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
