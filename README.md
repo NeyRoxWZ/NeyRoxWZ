@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/neyrox_wz2" target="blank"><img src="https://img.shields.io/twitter/follow/neyrox_wz2?logo=twitter&style=for-the-badge" alt="neyrox_wz2" /></a> </p>
 
-- 👕 I am currently working on [Vinted Bot](Soon)
+- 👕 I am currently working on [New Base fort fivem](Soon)
 
-- 🌐 I am currently working on [Crack gaming site](https://en.offmods.com/)
+- 🌐 I am currently working on [Nothing](Soon)
 
-- 👯 I’m looking to collaborate on [Discord](https://discord.gg/r8X7TTCfDQ)
+- 👯 I’m looking to collaborate on [Discord](https://discord.gg/Xpmuabmeg4)
 
 - ⚡ Fun fact **I am young (15 years old)**
 
