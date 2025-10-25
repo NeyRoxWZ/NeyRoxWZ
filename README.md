@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/neyrox_wz2" target="blank"><img src="https://img.shields.io/twitter/follow/neyrox_wz2?logo=twitter&style=for-the-badge" alt="neyrox_wz2" /></a> </p>
 
-- 👕 I am currently working on [twin of guns.lol](https://biositeexemple.vercel.app/)
+- 👕 I am currently working on [impressly](https://impressly.vercel.app/)
 
-- 🌐 I am currently working on [second twin of guns.lol](https://neyrox.vercel.app)
+- 🌐 I am currently working on [chitospack launcher (private)](nothing)
 
 - 👯 I’m looking to collaborate on [Discord](nothing)
 
