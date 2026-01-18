@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Discord](nothing)
 
-- ⚡ Fun fact **I am young (16 years old)**
+- ⚡ Fun fact **I am young (17 years old)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
