@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/neyrox_wz2" target="blank"><img src="https://img.shields.io/twitter/follow/neyrox_wz2?logo=twitter&style=for-the-badge" alt="neyrox_wz2" /></a> </p>
 
-- 👕 I am currently working on [impressly](https://impressly.vercel.app/)
+- 👕 I am currently working on [Kzney Shop](Soon)
 
 - 🌐 I am currently working on [chitospack launcher (private)](nothing)
 
