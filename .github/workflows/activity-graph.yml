@@ -1,0 +1,23 @@
+name: GitHub Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        uses: alexcerezo/activity-graph@v1
+        with:
+          username: NeyRoxWZ
+          token: ${{ github.token }}
