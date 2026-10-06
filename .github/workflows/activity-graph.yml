@@ -1,4 +1,4 @@
-name: GitHub Contribution Graph
+name: Activity Graph
 
 on:
   schedule:
@@ -13,11 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate contribution graph
-        uses: alexcerezo/activity-graph@v1
-        with:
-          username: NeyRoxWZ
-          token: ${{ github.token }}
+      - uses: alexcerezo/activity-graph@v1
